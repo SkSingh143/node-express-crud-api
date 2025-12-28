@@ -1,0 +1,18 @@
+{
+  "name": "crud_server",
+  "version": "1.0.0",
+  "description": "basicallly to perform crud operation and verifying with postman",
+  "keywords": [
+    "CRUD"
+  ],
+  "license": "ISC",
+  "author": "Saksham Singh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
